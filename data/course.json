@@ -1,0 +1,59 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Computation"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Theory of Computation"
+    ]
+  ],
+  "legacy_uid": "9b977a88-43b6-28dc-df25-c62dd8c455e3",
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "a6e526cd-bd4e-23c3-79c4-08e53fa35c4a",
+      "97490edb-d1af-d10b-27c8-4045aa33a1af"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e70f9dc2-6e07-c50a-789d-0701ffc60383",
+    "website": "6-006-introduction-to-algorithms-spring-2008"
+  },
+  "course_title": "Introduction to Algorithms",
+  "hide_download": true,
+  "course_description": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.006",
+  "course_image_thumbnail": {
+    "content": "231d17be-da75-718f-4e6b-404e70bf4727",
+    "website": "6-006-introduction-to-algorithms-spring-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "c0d24115-1ac3-4fc6-8d72-2edb7455a3bc",
+  "site_short_id": "6.006-spring-2008",
+  "site_url_path": "courses/6-006-introduction-to-algorithms-spring-2008",
+  "title": "Course Metadata"
+}
