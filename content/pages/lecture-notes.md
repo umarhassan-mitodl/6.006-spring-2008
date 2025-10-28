@@ -29,13 +29,13 @@ L1
 {{< tdclose >}}{{< tdopen >}}
 Introduction and document distance ({{% resource_link "db4aebc0-875e-0e35-41d0-8d767dc5f54f" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_prog1.htm) (docdist{1,2,3,4}.py)
+[Document distance](/ans7870/6/6.006/s08/lecturenotes/dd_prog1.htm) (docdist{1,2,3,4}.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L2
 {{< tdclose >}}{{< tdopen >}}
 More document distance, mergesort ({{% resource_link "00845792-11f6-874f-b952-58a10a701ae3" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_prog5.htm) (docdist{5,6}.py)
+[Document distance](/ans7870/6/6.006/s08/lecturenotes/dd_prog5.htm) (docdist{5,6}.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Binary search trees**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -43,13 +43,13 @@ L3
 {{< tdclose >}}{{< tdopen >}}
 Airplane scheduling, binary search trees ({{% resource_link "26f81dc8-53b4-980d-8c08-73c0f8875268" "PDF - 1.4 MB" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Binary search trees](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/search.htm) (including code)
+[Binary search trees](/ans7870/6/6.006/s08/lecturenotes/search.htm) (including code)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L4
 {{< tdclose >}}{{< tdopen >}}
 Balanced binary search trees ({{% resource_link "1f940ab4-5156-183a-323e-dd0011317452" "PDF - 1.2 MB" %}})
 {{< tdclose >}}{{< tdopen >}}
-See [binary search trees](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/search.htm) for AVL code
+See [binary search trees](/ans7870/6/6.006/s08/lecturenotes/search.htm) for AVL code
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Hashing**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -57,7 +57,7 @@ L5
 {{< tdclose >}}{{< tdopen >}}
 Hashing I: chaining, hash functions ({{% resource_link "3319dd2c-718a-c545-917c-4212920b1b2e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Document distance](https://ocw-studio.odl.mit.edu/ans7870/6/6.006/s08/lecturenotes/dd_dict.htm) (docdist-dict.py)
+[Document distance](/ans7870/6/6.006/s08/lecturenotes/dd_dict.htm) (docdist-dict.py)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L6
 {{< tdclose >}}{{< tdopen >}}
@@ -193,5 +193,5 @@ L25
 {{< tdclose >}}{{< tdopen >}}
 Beyond 6.006: follow-on classes, geometric folding algorithms ({{% resource_link "a729b497-844a-141d-b1f1-e52cb5b9cb69" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-If you are interested in folding algorithms, you can look at the [previous offering of 6.885](http://courses.csail.mit.edu/6.885/fall07/) and the [associated textbook](http://www.gfalop.org/).
+If you are interested in folding algorithms, you can look at the {{% resource_link "a990d206-2e5d-4a44-83c7-c79ccedcabf9" "previous offering of 6.885" %}} and the {{% resource_link "5036be5b-9564-4397-8eb1-3677bae06381" "associated textbook" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

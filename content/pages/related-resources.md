@@ -18,28 +18,28 @@ Miller, Bradley, and David Ranum. *Problem Solving with Algorithms and Data Stru
 
 ## Python
 
-[Python Tutorial](http://docs.python.org/tut/)
+{{% resource_link "562c2432-fbea-46f2-97b3-c96d64010315" "Python Tutorial" %}}
 
-[Debugging In Python](https://docs.python.org/3/library/pdb.html)
+{{% resource_link "d188cd2e-fcde-48b7-ab2e-1265be04f621" "Debugging In Python" %}}
 
-[6.01 Python Resource list](http://courses.csail.mit.edu/6.01/fall07/resource.html)
+{{% resource_link "a71a78b7-00bc-4d2b-9769-584b9ab720eb" "6.01 Python Resource list" %}}
 
-[IPython](http://scipy-ipython.readthedocs.io/en/latest/), an enhanced interactive shell for use on the command line.
+{{% resource_link "e0fa5c8a-0562-40b1-adba-eb86ce9ca3df" "IPython" %}}, an enhanced interactive shell for use on the command line.
 
 Beazley, David. *Python: Essential Reference*. Upper Saddle River, NJ: Pearson Education, 2006. ISBN: 9780672328626.
 
 ## LaTeX
 
-[LaTeX Tutorial](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
+{{% resource_link "dc8a941c-ff54-4da5-a00a-d3eced7178d7" "LaTeX Tutorial" %}}
 
-[LaTeX Symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
+{{% resource_link "d40aeea3-45fc-49fa-8f39-6d637590ab81" "LaTeX Symbols" %}}
 
-A (Not So) Short Introduction to LaTeX2e ([PDF - 2.2 MB](http://tug.ctan.org/tex-archive/info/lshort/english/lshort.pdf))
+A (Not So) Short Introduction to LaTeX2e ({{% resource_link "dd8f7e49-c677-4b8d-8c0b-a9e2f54d15bb" "PDF - 2.2 MB" %}})
 
-[LyX for Windows](http://wiki.lyx.org/Windows/Windows) (IDE for Windows)
+{{% resource_link "b0bd67f1-4fc2-4730-ade5-fa0e61410e1b" "LyX for Windows" %}} (IDE for Windows)
 
-[MiKTeX](http://miktex.org/) (IDE for Windows)
+{{% resource_link "0179af1b-096d-4a39-90ab-33f747a5704c" "MiKTeX" %}} (IDE for Windows)
 
-[proTeXt](http://www.tug.org/protext/), based on MiKTeX (IDE for Windows)
+{{% resource_link "92ace319-7321-4226-890e-ea1fc1bf7145" "proTeXt" %}}, based on MiKTeX (IDE for Windows)
 
 Kopka, Helmut, and Patrick Daly. *A Guide to LaTeX: Document Preparation for Beginners and Advanced Users*. 3rd ed. Reading, MA: Addison-Wesley, 1999. ISBN: 9780201398250.
