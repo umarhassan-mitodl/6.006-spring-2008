@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the problem sets assigned for the course along
   with supporting files.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -125,7 +123,7 @@ Image resizing code ({{% resource_link d6f1166e-5e31-a3db-b5de-b46edbcf3818 "ZIP
 
 All code for this problem set ({{% resource_link 35538eb5-7d84-3fd0-0c9d-5c89efd779a9 "ZIP" %}}) (This zip file includes: 2 .png files, 10 .py files, and 1 .txt file.)
 
-The paper and video for Problem 4 can be found here: [Seam Carving for Content-Aware Image Resizing](https://dl.acm.org/citation.cfm?id=1276390)
+The paper and video for Problem 4 can be found here: {{% resource_link "3f1e41a2-c8c8-4855-ac88-b8efff8f1677" "Seam Carving for Content-Aware Image Resizing" %}}
 
 
 {{< tdclose >}}

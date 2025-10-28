@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   Course 6 requirements, lectures, recitations, problem sets, exams, grading policy,
   collaboration policy, the textbook, and homework guidelines.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -99,7 +97,7 @@ Textbook
 
 The primary written reference for the course is the following textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032933) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262032933). 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
+{{% resource_link "ff7d0219-0574-4ae1-bd19-eb515b9b76d4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "ff7d0219-0574-4ae1-bd19-eb515b9b76d4" "_Introduction to Algorithms_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 
 We also recommend:
 

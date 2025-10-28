@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the list of readings assigned for the lecture sessions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -16,7 +14,7 @@ video_metadata:
 
 In the table below, readings listed as CLRS are taken from the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032933) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262032933). 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
+{{% resource_link "ff7d0219-0574-4ae1-bd19-eb515b9b76d4" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "ff7d0219-0574-4ae1-bd19-eb515b9b76d4" "_Introduction to Algorithms_" %}}. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -353,7 +351,7 @@ Parncutt, Richard, et al. "An Ergonomic Model of Keyboard Fingering for Melodic 
 
 Al Kasimi, Alia, Eric Nichols, and Christopher Raphael. "A Simple Algorithm for Automatic Generation of Polyphonic Piano Fingerings." In _Proceedings of the 8th International Conference on Music Information Retrieval_, 2007, pp. 355-356.
 
-For fun, watch the [Metamorphosis of the Cube](http://erikdemaine.org/metamorphosis/) video, which illustrates a folding DP.
+For fun, watch the {{% resource_link "7fecb7bd-7518-49c2-9ba0-e1e7dc5b8e86" "Metamorphosis of the Cube" %}} video, which illustrates a folding DP.
 
 
 {{< tdclose >}}
